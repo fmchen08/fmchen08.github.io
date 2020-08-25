@@ -1,8 +1,12 @@
-## 计算机是如何工作的
-### 计算机的定义
+# 计算机是如何工作的
+
+1. TOC
+{:toc}
+
+## 计算机的定义
 The computer is an electromechanical device which takes **input**, does **processing** and produces **output**.
 
-### 计算机的发展历史
+## 计算机的发展历史
 - 第一代：1946年，第一台计算机ENIAC。体积庞大，价额昂贵，无操作系统。
 - 第二代：1950s，晶体管代替了真空管。
 - 第三代：1960s，集成电路。
@@ -10,7 +14,7 @@ The computer is an electromechanical device which takes **input**, does **proces
 - 第五代：1985-，智能化。
 - 后PC时代：个人移动设备代替PC，数据中心取代传统服务器。
   
-### 计算机的组成
+## 计算机的组成
 - CPU：计算机的大脑
 - 主存储器：存储指令和数据
 - 第二存储：持久化存储
@@ -21,10 +25,10 @@ The computer is an electromechanical device which takes **input**, does **proces
 - 网络适配器
 - 外设接口
 
-### 计算机内部通信
+## 计算机内部通信
 CPU、内存、以及输入输出设备之间通过总线（bus）传递信息。
 
-### CPU
+## CPU
 - 计算机的大脑
 - 含有百万甚至几十亿个晶体管
 - 程序运行的最终执行单元
@@ -33,7 +37,7 @@ CPU、内存、以及输入输出设备之间通过总线（bus）传递信息�
 - 有少量的寄存器，速度非常快，不需要总线通信。价格昂贵
 - 包含高速缓存（cache），介于寄存器与内存之间
 
-### IT产业生态链
+## IT产业生态链
 - 摩尔定律：集成电路的集成度每18个月翻一番
 - 安迪-比尔定律：What Andy gives, Bill takes away.
 - 后PC时代：“ARM+Android” 取代 “微软+英特尔”
